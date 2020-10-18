@@ -18,3 +18,5 @@
 * 赛题链接 (http://www.cnsoftbei.com/plus/view.php?aid=491)
 * 晋级决赛名单 (http://www.cnsoftbei.com/plus/view.php?aid=520)
 * 决赛全国二等奖第一批名单 (http://www.cnsoftbei.com/plus/view.php?aid=528)
+
+![奖状](https://github.com/664235822/Mycat-Server-Archives/blob/master/img/img.jpeg?raw=true)
