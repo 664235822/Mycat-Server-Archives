@@ -19,4 +19,4 @@
 * 晋级决赛名单 (http://www.cnsoftbei.com/plus/view.php?aid=520)
 * 决赛全国二等奖第一批名单 (http://www.cnsoftbei.com/plus/view.php?aid=528)
 
-![奖状](https://raw.githubusercontent.com/664235822/Mycat-Server-Archives/master/img/%E4%B8%AD%E5%9B%BD%E8%BD%AF%E4%BB%B6%E6%9D%AF%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E5%A4%A7%E8%B5%9B%E5%9B%BD%E5%AE%B6%E7%BA%A7%E4%BA%8C%E7%AD%89%E5%A5%96.jpeg)
+![奖状](https://github.com/664235822/Mycat-Server-Archives/blob/master/img/%E4%B8%AD%E5%9B%BD%E8%BD%AF%E4%BB%B6%E6%9D%AF%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E5%A4%A7%E8%B5%9B%E5%9B%BD%E5%AE%B6%E7%BA%A7%E4%BA%8C%E7%AD%89%E5%A5%96.jpg?raw=true)
